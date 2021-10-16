@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.3" height="22" viewBox="0 0 24.3 22">
+  <g id="screw" transform="translate(0 -24.235)">
+    <g id="Group_18" data-name="Group 18" transform="translate(5.928 29.013)">
+      <g id="Group_17" data-name="Group 17">
+        <path id="Path_635" data-name="Path 635" d="M131.124,124.9a6.222,6.222,0,1,0,6.222,6.222A6.229,6.229,0,0,0,131.124,124.9Zm0,10.4a4.178,4.178,0,1,1,4.178-4.178A4.178,4.178,0,0,1,131.124,135.3Z" transform="translate(-124.902 -124.902)" fill="#dd2937"/>
+      </g>
+    </g>
+    <g id="Group_20" data-name="Group 20" transform="translate(0 24.235)">
+      <g id="Group_19" data-name="Group 19">
+        <path id="Path_636" data-name="Path 636" d="M23.826,33.458l-4.3-7.445a3.565,3.565,0,0,0-3.079-1.777h-8.6a3.565,3.565,0,0,0-3.079,1.777l-4.3,7.445a3.565,3.565,0,0,0,0,3.555l4.3,7.445a3.565,3.565,0,0,0,3.079,1.777h8.6a3.565,3.565,0,0,0,3.079-1.777l4.3-7.445A3.565,3.565,0,0,0,23.826,33.458ZM12.15,42.879a7.644,7.644,0,1,1,7.644-7.644A7.653,7.653,0,0,1,12.15,42.879Z" transform="translate(0 -24.235)"/>
+      </g>
+    </g>
+  </g>
+</svg>
